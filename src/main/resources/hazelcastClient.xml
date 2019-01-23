@@ -50,7 +50,7 @@
 			</discovery-strategies>
 		</join>
 		<interfaces enabled="true">
-			<interface>192.168.0.*</interface>
+			<interface>127.0.0.1</interface>
 		</interfaces>
 		<ssl enabled="false" />
 		<socket-interceptor enabled="false" />
